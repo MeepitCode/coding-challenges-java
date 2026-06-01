@@ -12,7 +12,7 @@ Aquí puedes ver la bitácora de vuelo con los ejercicios disponibles:
 
 | # | Ejercicio | Empresa | Enfoque Principal | Solución |
 |---|---|---|---|---|
-| 1 | [Diferencia de Diagonales](#-1-diferencia-de-diagonales--latam-airlines) | LATAM Airlines ✈️ | Matrices / Complejidad $\mathcal{O}(n)$ | [Ver código](./Solution.java) |
+| 1 | [Diferencia de Diagonales](#-1-diferencia-de-diagonales--latam-airlines) | LATAM Airlines ✈️ | Matrices / Complejidad $\mathcal{O}(n)$ | [Ver código](./Solution-LATAM-Airlines.java) |
 
 ---
 
