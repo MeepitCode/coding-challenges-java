@@ -37,4 +37,9 @@ Dada una matriz cuadrada de tamaño $n \times n$ (donde $n$ es un número entero
   [4, 5, 6],
   [10, 8, -12]
 ]
+```
 
+#### Explicación de los Datos
+La diagonal principal se mueve de arriba-izquierda a abajo-derecha: $11 + 5 + (-12) = 4$.
+La diagonal secundaria se mueve de arriba-derecha a abajo-izquierda: $4 + 5 + 10 = 19$.
+La diferencia absoluta final se calcula ignorando los signos negativos intermediarios: $|4 - 19| = 15$.
